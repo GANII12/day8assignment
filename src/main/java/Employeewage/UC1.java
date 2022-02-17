@@ -1,7 +1,6 @@
-import java.util.Random;
-import java.util.Scanner;
+package Employeewage;
 
-public class Main {
+public class UC1 {
     public static void main(String[] args) {
         double emp = Math.floor(Math.random() * 10) ;
 
